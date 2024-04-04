@@ -11,26 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied mathematics, CRAN, Université de Lorraine, CNRS, 2023-today
+* M2 Advanced Wireless Communication Systems, CentraleSupélec, Université Paris-Saclay, 2022
+* M2 Formation à l'Enseignement Supérieur, INTRANET specialization, Ecole Normale Supérieure Paris-Saclay, Université Paris-Saclay, 2021
+* M1 Energie Electrique, Electronique et Automatique, Ecole Normale Supérieure Paris-Saclay, Université Paris-Saclay, 2020
+* SAPHIRE program (B.S. equivalent) Mechanical, Electrical and Civil Engineering, Ecole Normale Supérieure Paris-Saclay, Université Paris-Saclay, 2019
+* Classes préparatoires aux Grandes Ecoles PTSI/PT*, Lycée Henri Loritz, Nancy, 2017-2019
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -40,25 +27,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
