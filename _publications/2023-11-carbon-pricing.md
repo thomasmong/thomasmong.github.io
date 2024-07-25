@@ -1,7 +1,7 @@
 ---
 title: "Optimal Carbon Pricing Based on Dynamical Climate Model"
 collection: publications
-permalink: /publication/2023-11-carbon-pricing
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-11-28
 venue: 'PGMO Days'
